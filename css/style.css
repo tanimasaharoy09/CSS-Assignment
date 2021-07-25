@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    front-size:100px;
+    background-color: darkseagreen;
+    
+}
+.one{
+    background-color: cyan;
+}
+.two{
+    background-color: darkmagenta;
+}
+.three{
+    background-color: darksalmon;
+}
+.four{
+    background-color: darkolivegreen;
+}
+.five{
+    background-color: dodgerblue;
+}
+.six{
+    background-color: hotpink;
+}
+.seven{
+    background-color: lightseagreen;
+}
+.eight{
+    background-color: mediumseagreen;
+}
+.nine{
+    background-color: orchid;
+}
+.ten{
+    background-color: peru;
+}
+.eleven{
+    background-color: purple;
+}
+.twelve{
+    background-color: salmon;
+}
+.thirteen{
+    background-color: springgreen;
+}
+.forteen{
+    background-color: steelblue;
+}
+.fifteen{
+    background-color: tomato;
+}
+.sixteen{
+    background-color: violet;
+}
+.seventeen{
+    background-color: teal;
+}
+.eighteen{
+    background-color: yellow;
+}
+.nineteen{
+    background-color: sandybrown;
+}
+.twenty{
+    background-color: indianred;
+}
+.caption{
+    background-color: khaki;
+    
+}
+.command{
+    background-color: mediumblue;
+}
+.datalist{
+    background-color: mediumpurple;
+}
+.dd{
+    background-color: navajowhite;
+}
+.del{
+    background-color: palegreen;
+}
+.details{
+    background-color: rebeccapurple;
+}
+.dfn{
+    background-color: rosybrown;
+}
+.em{
+    background-color: saddlebrown;
+}
+.fieldset{
+    background-color: skyblue;
+}
+.figcaption{
+    background-color: maroon;
+}
+.footer{
+    background-color: darkcyan;
+}
+.form{
+    background-color: darksalmon;
+}
+.h1_to_h6{
+    background-color: deeppink;
+}
+.hr{
+    background-color: grey;
+}
+.input{
+    background-color: indigo;
+}
+.ins{
+    background-color: lightpink;
+}
+.kbd{
+    background-color: lime;
+}
+.label{
+    background-color: mediumorchid;
+}
+.legend{
+    background-color: orangered;
+}
+.mark{
+    background-color: palegreen;
+}
+.meter{
+    background-color: peru;
+}
+.ol{
+    background-color: royalblue;
+}
+.optgroup{
+    background-color: salmon;
+}
+.option{
+    background-color: seagreen;
+}
+.output{
+    background-color: wheat;
+}
+.pre{
+    background-color: red;
+}
+.progress{
+    background-color: slategray;
+}
+.q{
+    background-color: rebeccapurple;
+}
+.rp{
+    background-color: sandybrown;
+}
+.rt{
+    background-color: violet;
+}
+.ruby{
+    background-color: turquoise;
+}
+.s{
+    background-color: tomato;
+}
+.samp{
+    background-color: tan;
+}
+.script{
+    background-color: navy;
+}
+.section{
+    background-color: palegreen;
+}
+.select{
+    background-color: palevioletred;
+}
+.source{
+    background-color: saddlebrown;
+}
+.span{
+    background-color: snow;
+}
+.textarea{
+    background-color: teal;
+}
+.time{
+    background-color: silver;
+}
+.u{
+    background-color: mediumblue;
+}
+.ul{
+    background-color: lightpink;
+}
+.var{
+    background-color: goldenrod;
+}
+.wbr{
+    background-color: indianred;
+}
+.figure{
+    background-color: lightseagreen;
+}
+.top{
+    background-color: sienna;
+    font-size: 100px;
+    text-align: center;
+    
+}
+.mid{
+    background-color: palevioletred;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+
